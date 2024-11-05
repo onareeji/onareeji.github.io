@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://onareeji.github.io/MDS/sitemap_index.txt
+Sitemap: https://onareeji.github.io/SOe/sitemap_index.txt
+Sitemap: https://onareeji.github.io/ZjY/sitemap_index.txt
+Sitemap: https://onareeji.github.io/aRb/sitemap_index.txt
